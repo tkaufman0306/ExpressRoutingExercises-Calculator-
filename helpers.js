@@ -71,7 +71,7 @@ function findMedian(nums) {
     let median;
 
     if (nums.length % 2 === 0) {
-        median = (nums[middleindex] + nums[middleIndex - 1]) / 2;
+        median = (nums[middleIndex] + nums[middleIndex - 1]) / 2;
     } else {
         median = nums[middleIndex];
     }

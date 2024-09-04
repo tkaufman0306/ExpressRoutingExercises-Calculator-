@@ -11,5 +11,13 @@
   "description": "",
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.4"
+  },
+
+  "test": "jest",
+  "test:watch": "nodemon"
 }
+

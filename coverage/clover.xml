@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1725477855423" clover="3.2.0">
+  <project timestamp="1725477855424" name="All files">
+    <metrics statements="27" coveredstatements="20" conditionals="10" coveredconditionals="8" methods="9" coveredmethods="7" elements="46" coveredelements="35" complexity="0" loc="27" ncloc="27" packages="1" files="1" classes="1"/>
+    <file name="helpers.js" path="/home/tkaufman/Springboard/Express.js/Express-Routing-Exercises/helpers.js">
+      <metrics statements="27" coveredstatements="20" conditionals="10" coveredconditionals="8" methods="9" coveredmethods="7"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="6" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="45" count="0" type="stmt"/>
+      <line num="46" count="0" type="stmt"/>
+      <line num="48" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="56" count="0" type="stmt"/>
+      <line num="60" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="62" count="3" type="stmt"/>
+      <line num="69" count="8" type="stmt"/>
+      <line num="70" count="2" type="stmt"/>
+      <line num="73" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="74" count="1" type="stmt"/>
+      <line num="76" count="1" type="stmt"/>
+      <line num="78" count="2" type="stmt"/>
+      <line num="82" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

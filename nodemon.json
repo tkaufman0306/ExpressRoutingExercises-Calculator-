@@ -1,0 +1,5 @@
+{
+  "watch": ["*.js", "helpers/*.js", "tests/*.js"], 
+  "ext": "js",
+  "exec": "jest --coverage --watchAll"
+}
